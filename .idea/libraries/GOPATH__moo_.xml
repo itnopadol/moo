@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;moo&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../models" />
+      <root url="file://$PROJECT_DIR$/../../moo" />
+      <root url="file://$PROJECT_DIR$/../../Function" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../git.eclipse.org" />
+      <root url="file://$PROJECT_DIR$/../../Pluralsight" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../Database" />
+      <root url="file://$PROJECT_DIR$/../../exeGo" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../moo/.idea" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../exeGo/working-with-go/.git" />
+      <root url="file://$PROJECT_DIR$/../../moo/user/.idea" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/.git" />
+      <root url="file://$PROJECT_DIR$/../pborman/uuid/.git" />
+      <root url="file://$PROJECT_DIR$/../mrtomyum/nava-test/.idea" />
+      <root url="file://$PROJECT_DIR$/../go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../../Database/.idea" />
+      <root url="file://$PROJECT_DIR$/../../git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git/.git" />
+      <root url="file://$PROJECT_DIR$/../mrtomyum/nava-test/.git" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/_gccgo" />
+      <root url="file://$PROJECT_DIR$/../mrtomyum/.idea" />
+      <root url="file://$PROJECT_DIR$/../../moo/nava-upload-test/.idea" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/_goremote" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/_testing" />
+    </excluded>
+  </library>
+</component>
